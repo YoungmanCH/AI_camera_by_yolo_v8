@@ -1,0 +1,15 @@
+参考サイト
+https://blog.goo.ne.jp/yoossh/e/a14fdfeea8a699c525f41de13483826d
+
+https://zenn.dev/opamp/articles/51ee26445a1732
+
+
+
+ffmpegの使い方
+https://fukatsu.tech/install-ffmpeg
+
+
+yolo v8 ultralytics
+https://github.com/ultralytics/ultralytics
+
+
